@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Page Layout</title>
+	<style>
+		.head1 {
+			font-size:40px;
+			color:rgb(26, 135, 237);
+			font-weight:bold;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+            font: italic;
+            margin-left: 5px;
+            margin-top: 10px;
+            text-decoration: none;
+		}
+		.head2 {
+            font-family: 'Courier New', Courier, monospace;
+			font-size:17px;
+			margin-left:12px;
+			margin-bottom:15px;
+            color: olive;
+		}
+		body {
+			margin: 0 auto;
+			background-position:center;
+			background-size: contain;
+            background-color: rgb(35, 34, 34);
+		}
+	
+		.menu {
+            position: static;
+			
+			top: 0;
+			background-color:black;
+			padding:10px 0px 10px 0px;
+			color:cyan;
+			margin: 0 auto;
+			overflow: hidden;
+		}
+		.menu a {
+			float: left;
+			color: white;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: none;
+			font-size: 20px;
+		}
+		.menu-log {
+			right: auto;
+			float: right;
+		}
+		footer {
+			width: 100%;
+			bottom: 0px;
+			background-color: #000;
+			color: #fff;
+			position: absolute;
+			padding-top:20px;
+			padding-bottom:50px;
+			text-align:center;
+			font-size:30px;
+			font-weight:bold;
+		}
+		.body_sec {
+			margin-left:20px;
+		}
+	</style>
+</head>
+
+<body>
+	
+	<!-- Header Section -->
+	<header>
+        <div class="head1">
+		    <a href="https://rnxg.co.in/" class="head1">RNXG</a>
+             E-Comm
+        </div>
+		<div class="head2">An Electronics Store</div>
+	</header>
+	
+	<!-- Menu Navigation Bar -->
+	<div class="menu">
+		<a href="https://www.google.com/">HOME</a>
+		<a href="#news">NEWS</a>
+		<a href="#notification">NOTIFICATIONS</a>
+		<div class="menu-log">
+			<a href="#login">LOGIN</a>
+		</div>
+	</div>
+	
+	<!-- Body section -->
+	<div class = "body_sec">
+		<section id="Content">
+			<h3>Content section</h3>
+		</section>
+	</div>
+	
+	<!-- Footer Section -->
+	<footer>Footer Section</footer>
+</body>
+</html>				

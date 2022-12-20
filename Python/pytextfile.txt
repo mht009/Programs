@@ -1,0 +1,5 @@
+Python is a very high level programming language.
+It is an object oriented programming language.
+It was developed by Guido Van Rossum.
+It was derived from ABC and Modula-3 Programming language.
+It was developed in early 1990's.

@@ -1,0 +1,76 @@
+([('qr_code.exe',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\build\\qr_code\\qr_code.exe',
+   'EXECUTABLE'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python38.dll',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\python38.dll',
+   'BINARY'),
+  ('select',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('PIL._imagingft',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_imagingft.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._webp',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_webp.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imagingtk',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('PIL._imaging',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_imaging.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('PIL\\vcruntime140_1.dll',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PIL\\msvcp140.dll',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\MSVCP140.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\build\\qr_code\\base_library.zip',
+   'DATA')],)

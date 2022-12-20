@@ -1,0 +1,26 @@
+h1{
+
+/*Hexadecimal Style : In this style, we define the color in 6 digit hexadecimal number (from 0 to F).
+It is denoted by ‘#’. The first two digits indicate red color, next two green color and the last two blue color.*/
+color:#00FF00;
+
+
+
+/*RGB Style [Red Green Blue] : In this we need to give 3 numbers indicating the amount of
+red, green and blue colors respectively required in the mixed color. The range of each color is from 0 to 255. */
+color:rgb(0, 255, 0);
+
+/*Note:
+         rgb(0, 0, 0) is Black color and rgb(255, 255, 255) is White color. */
+
+
+/*RGBA Style [Red Green Blue Alpha] : This style allows us to make the color transparent according to our will.
+Alpha indicates the degree of transparency. The range of green, blue and red is from 0 to 255 and that of alpha is from 0 to 1.*/
+
+color:rgba(11, 99, 150, 1);
+
+
+
+/*HSL colors*/
+color: hsl(hue, saturation, lightness);
+}

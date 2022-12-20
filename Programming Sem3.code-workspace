@@ -1,0 +1,46 @@
+{
+  "folders": [
+	{
+		"path": "../../../Desktop/Programming/HTML/MyntraClone"
+	},
+	{
+		"path": "../../../Desktop/SGGS IE&T/Semester 3/OOPS with Java"
+	},
+	{
+		"path": "../../../Desktop/SGGS IE&T/Semester 3/Python"
+	},
+	{
+		"path": "../../../Desktop/SGGS IE&T/Semester 3/Numerical And Scientific Computing"
+	},
+	{
+		"path": "../../../Desktop/SGGS IE&T/Semester 3/Digital Electronics"
+	},
+	{
+		"path": "../../../Desktop/Programming/Python"
+	},
+	{
+		"path": "../../../Desktop/HackerRank"
+	},
+	{
+		"path": "../SGGS IE&T/Semester 3/Data Structure"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "MyntraClone",
+    "files.associations": {
+      "Q1.C": "cpp"
+    }
+  },
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [
+    
+      {
+        "name": "PlatformIO Debugger",
+        "request": "launch",
+        "type": "platformio-debug",
+        "toolchainBinDir": "/usr/local/bin"
+      }
+    ]
+  }
+}

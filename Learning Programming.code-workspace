@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "Python"
+		},
+		{
+			"path": "C"
+		},
+		{
+			"path": "C++"
+		},
+		{
+			"path": "HTML"
+		},
+		{
+			"path": "Java"
+		},
+		{
+			"path": "JavaScript"
+		},
+		{
+			"path": "D:\\Mht's World\\USA Vidya Niketan\\CS\\CS XII\\CS Project  Mohit Gajbhiye"
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}

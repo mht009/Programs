@@ -1,0 +1,798 @@
+(['C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+  'ENGINEERING AND TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\qr_code.py'],
+ ['C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+  'ENGINEERING AND TECHNOLOGY\\Desktop\\Programming\\Python\\2022'],
+ ['codecs'],
+ ['C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+  'ENGINEERING AND '
+  'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+  'ENGINEERING AND '
+  'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+  'ENGINEERING AND '
+  'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+  'ENGINEERING AND '
+  'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+  'ENGINEERING AND '
+  'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ {},
+ '3.8.5 (tags/v3.8.5:580fbb0, Jul 20 2020, 15:57:54) [MSC v.1924 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_subprocess',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('qr_code',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\qr_code.py',
+   'PYSOURCE')],
+ [('subprocess',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\selectors.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\signal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\struct.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\configparser.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\socket.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\random.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\pprint.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\getopt.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\bz2.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\typing.py',
+   'PYMODULE'),
+  ('qrcode',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\__init__.py',
+   'PYMODULE'),
+  ('qrcode.image',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\image\\__init__.py',
+   'PYMODULE'),
+  ('qrcode.main',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\main.py',
+   'PYMODULE'),
+  ('qrcode.image.pil',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\image\\pil.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\__future__.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\numbers.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\fractions.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('qrcode.image.base',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\image\\base.py',
+   'PYMODULE'),
+  ('qrcode.util',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\util.py',
+   'PYMODULE'),
+  ('qrcode.LUT',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\LUT.py',
+   'PYMODULE'),
+  ('qrcode.base',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\base.py',
+   'PYMODULE'),
+  ('qrcode.exceptions',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\exceptions.py',
+   'PYMODULE'),
+  ('qrcode.constants',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\qrcode\\constants.py',
+   'PYMODULE')],
+ [('VCRUNTIME140.dll',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python38.dll',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\python38.dll',
+   'BINARY'),
+  ('select',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('PIL._imagingft',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_imagingft.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._webp',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_webp.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL._imagingtk',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_imagingtk.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('PIL._imaging',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\_imaging.cp38-win_amd64.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\mohit\\appdata\\local\\programs\\python\\python38\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('PIL\\vcruntime140_1.dll',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PIL\\msvcp140.dll',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\env2022\\lib\\site-packages\\PIL\\MSVCP140.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\Mohit\\OneDrive - SHRI GURU GOBIND SINGHJI INSTITUTE OF '
+   'ENGINEERING AND '
+   'TECHNOLOGY\\Desktop\\Programming\\Python\\2022\\build\\qr_code\\base_library.zip',
+   'DATA')],
+ [])

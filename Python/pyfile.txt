@@ -1,0 +1,2 @@
+Python is a very high level programming language.
+Python is an object oriented programming language.
